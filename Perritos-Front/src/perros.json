@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Chapo",
+        "apodo": "El chaparrito",
+        "raza": "Criollo",
+        "url_imagen": "a",
+        "edad": "Vive en mi corazón",
+        "descripcion": "Perrito pequeño. Bravo como un león. Color negro, pelo largo y en las patas, marrón. Orejas dobladas y cortitas. Colita siempre enroscada."
+    },
+    {
+        "id": 2,
+        "nombre": "Skip",
+        "apodo": "El orejón",
+        "raza": "Beagle",
+        "url_imagen": "https://i.pinimg.com/originals/94/ed/07/94ed0764a45ece860e2d201aef410283.jpg",
+        "edad": 11,
+        "descripcion": "Perrito malhumorado, amante del acto de la dormición. Carita marrón, pecho blanco y lomito negro. Su cola siempre estirada y su nariz pegada al piso."
+    },
+    {
+        "id": 3,
+        "nombre": "Filip",
+        "apodo": "La cabra negra de los bosques",
+        "raza": "Criollo",
+        "url_imagen": "a",
+        "edad": 6,
+        "descripcion": "Perrito menso, energía infinita, máquina de la felicidad. Perro negro, pecho y patitas blancas. Orejas levantadas. Es un perro guardían dispuesto a atacarte a besos o atacar a mordidas a sujetos extraños."
+    },
+    {
+        "id": 4,
+        "nombre": "Chrono",
+        "apodo": "El pelón",
+        "raza": "Dalmata",
+        "url_imagen": "a",
+        "edad": 10,
+        "descripcion": "Perrito altamente chillón. Amante de las caricias a nivel tóxico pero bastante adorable. Orejitas caídas, pelo blanco con manchas negras por todo el cuerpo"
+    },
+    {
+        "id": 5,
+        "nombre": "Volcán",
+        "apodo": "El guerrero",
+        "raza": "Criollo",
+        "url_imagen": "a",
+        "edad": "Desconocida",
+        "descripcion": "Perrito rescatado en mal estado. Logró vencer el cáncer. Es cariñoso menos con los machos. Perro de color amarillo con su carita negra y blanca. Orejitas dobladas. "
+    }
+]
